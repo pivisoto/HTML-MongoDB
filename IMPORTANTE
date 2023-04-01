@@ -1,0 +1,16 @@
+digitar esses comandos no cmd:
+npm init -y
+pacote express para fazer manipulação com alto nivel de abstração:
+npm install express
+pacote nodemon se encarrega de reiniciar o servidor a cada vez que um arquivo é editado:
+npm install nodemon --save-dev
+pacote utilizado para desativar o mecanismo CORS:
+npm install cors
+pacote utilizado para facilitar o acesso a uma base de ados gerenciada pelo MongoDB:
+npm install mongoose
+pacote responsavel por criptografar a senha:
+npm install bcrypt
+pacote para viabilzar o uso de codificações de informações (JSON Web Token ou JWT):
+npm install jsonwebtoken
+APOS A INSTALAÇÃO DE TODOS OS PACOTES NECESSARIOS UTILIZE:
+npm start
